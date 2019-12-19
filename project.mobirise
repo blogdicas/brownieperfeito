@@ -32,7 +32,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.7",
     "siteFonts": [],
-    "favicon": "@PROJECT_PATH@/assets/images/06.jpg",
+    "favicon": "@PROJECT_PATH@/assets/images/favicon.png",
     "noImageResize": "true",
     "siteUrl": "undefined",
     "uniqCompNum": 32,
