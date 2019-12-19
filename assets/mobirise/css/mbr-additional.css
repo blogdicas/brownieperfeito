@@ -1801,6 +1801,20 @@ body {
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
 }
+.cid-rL6XMypSF9 {
+  background: #ffffff;
+  padding-top: 0px;
+  padding-bottom: 15px;
+  background: linear-gradient(0deg, #ffffff, #ffffff);
+}
+.cid-rL6XMypSF9 .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-rL6XMypSF9 .video-block {
+    width: 100% !important;
+  }
+}
 .cid-rL6olzWU2U {
   padding-top: 15px;
   padding-bottom: 30px;
